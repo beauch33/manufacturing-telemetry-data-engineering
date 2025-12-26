@@ -1,1 +1,0 @@
-# manufacturing-telemetry-data-engineering
